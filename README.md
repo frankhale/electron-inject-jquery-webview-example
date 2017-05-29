@@ -5,5 +5,5 @@ This example was born from this Github issue: [https://github.com/electron/elect
 
 ### Author(s)
 
-Frank Hale <frankhale@gmail.com>
+Frank Hale &lt;<frankhale@gmail.com>&gt;  
 28 May 2017
