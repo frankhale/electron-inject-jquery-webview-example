@@ -5,6 +5,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
         $(function() {
             $("#lst-ib").val("Hello, World!");
         });
-    });
-    document.appendChild(script); 
+    };
+    document.body.appendChild(script);
 });
